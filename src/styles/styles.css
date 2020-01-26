@@ -51,6 +51,7 @@
 
 .header__title--accident {
     color: var(--green);
+    margin-left: 2px;
 }
 
 .list {
