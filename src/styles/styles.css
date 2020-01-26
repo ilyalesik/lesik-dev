@@ -108,7 +108,7 @@
 }
 
 .md-list__splash-separator {
-    margin: 0 8px;
+    margin: 0 0.4em;
     color: var(--blue);
 }
 
