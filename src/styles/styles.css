@@ -157,7 +157,7 @@
 .md-list__link:hover,
 .md-list__link:focus {
     color: #ffffff;
-    background: var(--black);
+    background: var(--blue);
 }
 
 .md-list__link:hover > .md-list__hint,
