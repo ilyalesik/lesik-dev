@@ -72,7 +72,9 @@
     font-weight: bold;
     font-size: 24px;
     line-height: 31px;
-    color: var(--black)
+    color: var(--black);
+
+    word-break: break-all;
 }
 
 .md-list > li + li {
