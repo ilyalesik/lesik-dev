@@ -4,7 +4,7 @@
   "description": "Personal website",
   "scripts": {
     "start": "parcel ./src/index.html",
-    "build": "parcel build ./src/index.html --out-dir public"
+    "build": "parcel build ./src/index.html ./src/landbot.html --out-dir public"
   },
   "author": "Ilya Lesik <ilialesik@gmail.com>",
   "license": "ISC",
