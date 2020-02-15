@@ -156,6 +156,8 @@
     margin-top: 23px;
 
     color: var(--black);
+
+    white-space: nowrap;
 }
 
 .avatar__quote {
