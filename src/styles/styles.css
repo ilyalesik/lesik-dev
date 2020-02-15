@@ -102,9 +102,9 @@
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
-    line-height: 24px;
+    line-height: 2;
 
-    margin-top: 16px;
+    margin-top: 8px;
 
     word-break: break-word;
 }
@@ -116,6 +116,7 @@
 
 .md-list > li > ul {
     margin-left: 28px;
+    margin-top: 16px;
 }
 
 .md-list__hint {
