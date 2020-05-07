@@ -2,6 +2,7 @@
   "version": 2,
   "name": "lesik-dev",
   "routes": [
-    { "src": "/(.+)", "dest": "public/$1" }
+    { "src": "/(.+)", "dest": "public/$1" },
+    { "src": "/forms/(.+)", "dest": "forms/$1" }
   ]
 }
